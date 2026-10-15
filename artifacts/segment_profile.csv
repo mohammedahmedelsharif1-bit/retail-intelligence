@@ -1,0 +1,5 @@
+Segment,Customers,Share_%,MedianRecency,MedianFrequency,MedianMonetary,MedianQuantity,MedianUniqueProducts,MedianAOV
+Active High-Value,1068,18.25017088174983,17.0,13.0,5689.125,3315.0,182.0,429.5606
+Recent Mid-Value,1788,30.553656869446343,40.0,5.0,1385.4899999999998,795.0,74.0,268.62355
+Inactive Low-Mid-Value,1710,29.22077922077922,360.5,2.0,570.5799999999999,318.0,31.0,330.82875
+Inactive Very-Low-Value,1286,21.975393028024605,358.5,1.0,171.56,90.0,10.5,131.05

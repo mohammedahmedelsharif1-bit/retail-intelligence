@@ -1,0 +1,13 @@
+# Data (large, and downloaded from UCI - never commit it)
+data/*.csv
+data/*.xlsx
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets / local config
+.env

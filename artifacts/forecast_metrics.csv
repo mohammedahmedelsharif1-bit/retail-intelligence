@@ -1,0 +1,4 @@
+Model,MAE,RMSE,WAPE_%
+Weekly naive baseline,97.64,234.74,98.92
+Random Forest,95.34,208.0,96.59
+XGBoost,88.25,196.46,89.4
